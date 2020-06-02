@@ -9,3 +9,15 @@
 .red-background {
   background-color: red;
 }
+
+.btn-dark {
+  color:white;
+  background-color:black;
+  border-color: #ccc;
+}
+
+.btn-light {
+  color: black;
+  background-color:white;
+  border-color: #ccc;
+}
